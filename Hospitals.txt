@@ -1,0 +1,15 @@
+HOSPITALS
+
+Choose the number of your query?
+1. Can I visit my family member when he/she has covid and is hospitalized?
+2. What is the incubation period of the COVID-19 virus?
+3. How long can the COVID-19 virus survive on surfaces?
+4. How much time elapses between infection with coronavirus disease and the onset of symptoms?
+5. How is coronavirus transmitted?.
+6. What are the most common symptoms of the disease?
+7.When should I test for covid?
+8. How long do symptoms last?
+9. What are the most serious symptoms of coronavirus disease?
+10. What should I do if someone in my family gets covid.
+11. return to main menu.
+

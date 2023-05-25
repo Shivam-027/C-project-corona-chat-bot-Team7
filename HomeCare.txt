@@ -1,0 +1,15 @@
+HOME CARE
+
+Choose the number of your query?
+1. How is coronavirus transmitted?
+2. What measures should be taken at home to prevent the spread of coronavirus disease?
+3. Can I reuse disposable masks?
+4. Should I isolate myself if I have had contact with a confirmed case?
+5. Can I get infected from an asymptomatic person?
+6. How long should I wait to take the covid test?
+7. What should I do if someone in my family gets covid?
+8. What should I do if there is an outbreak in my community?
+9. When should I take a sick family member to the hospital if I have covid in my home?
+10. Can I get covid if I have already been vaccinated?
+11. return to main menu.
+

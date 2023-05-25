@@ -1,0 +1,15 @@
+FOOD AND MEDICINE
+
+Choose the number of your query?
+1. What are the guidelines for proper nutrition during the COVID-19 quarantine?
+2. Why is healthy eating important for the immune system, especially during the COVID-19 pandemic?
+3. What can I do to keep myself healthy during the COVID-19 outbreak?
+4. Do I need to wash fruits and vegetables during the COVID-19 pandemic?
+5. Can the coronavirus disease be transmitted through water?
+6. Medical store near me.
+7. What kind of medicine we must take if suffering from covid?
+8. What are some myths and facts about the COVID-19 vaccine?
+9. Is it safe to take the COVID-19 vaccine if you have epilepsy?
+10. Did the WHO approve the Covaxin COVID-19 vaccine?
+11. return to main menu.
+
